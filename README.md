@@ -13,8 +13,8 @@ It will return a table containing a set of functions.
 * avF = function (array)                  : Average Array
 * stvF = function(array)                  : (n-1) Standar Desviation
 * frecuencyF = function(array)            : Frecuency Distribution
-* nomalVA = function (mu, sig)            : Normal Distribution
-* normal_inv_D = function (p, mu, sig)    : Normal-Inverse Gaussian Distribution (NIG) - RV
+* nomalVA = function (mu, sig)            : Normal Distribution - RV
+* normal_inv_D = function (p, mu, sig)    : Normal-Inverse Gaussian Distribution (NIG)
 * bernoulliVA = function (p)              : Bernoulli Distribution - RV
 * unifVA = function (min,max)             : Uniform Distribution - RV
 * expoVA = function (beta)                : Exponential Distribution - RV

@@ -229,7 +229,7 @@ return {
 	avF=avF,
 	stvF=stvF,
 	frecuencyF=frecuencyF,
-	nomalVA=nomalVA,
+	normalVA=normalVA,
 	normal_inv_D=normal_inv_D,
 	bernoulliVA=bernoulliVA,
 	unifVA=unifVA,
@@ -242,5 +242,5 @@ return {
 	poissonVA=poissonVA,
 	chiSquareVA=chiSquareVA,
 	gamVA=gamVA,
-	lognoRandVA=lognoRandVA,
+	lognoVA=lognoVA,
 }
