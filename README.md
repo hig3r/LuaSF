@@ -26,7 +26,7 @@ It will return a table containing a set of functions.
 * poissonVA = function(lamba)             : Poisson Distribution - RV
 * chiSquareVA = function(n)               : ChiSquare Distribution - RV
 * gamVA = function(alpha, lamba)	  : Gamma Distribution - RV
-* lognoRandVA = function(m, s)		  : Log-normal Distribution - RV
+* lognoVA = function(m, s)		  : Log-normal Distribution - RV
 
 **/RV: Random Variable**
 
